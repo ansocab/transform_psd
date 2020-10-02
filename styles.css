@@ -3,6 +3,77 @@ html, body {
     padding: 0;
 }
 
+header {
+    background-image: url(assets/bgk-header.png);
+    height: 500px;
+ 
+ }
+ .Module1 {
+     
+     height: 500px;
+ }
+ 
+ .Module2 {
+     background-image: url(assets/bgk-middle.png);
+     height: 500px;
+ }
+ .flex { 
+     display: flex; 
+     justify-content: center; 
+     align-items: center;
+ }
+ body {
+     background:
+ }
+ 
+ .topcontainer {
+     display: flex;
+ }
+ nav {
+        display: flex;
+        justify-content: flex-end;      
+        color: white; 
+ 
+    }
+    .nav ul li {
+     color: #fff;
+     display: inline-block; 
+     justify-content: flex-end; 
+     height: 80px;
+     line-height: 80px; 
+     list-style: none;
+     padding: 0 10px;
+     transition: background .5s; 
+   }
+ .btn {
+     margin: 0;
+     position: absolute;
+     top: 50%;
+     -ms-transform: translateY(-50%);
+     transform: translateY(-50%);
+ }
+     
+ .nav {
+     background-image: url(assets/bgk-header.png);
+     height: 500px;
+  }
+  .Module1 {
+      
+      height: 500px;
+  }
+  
+  .Module2 {
+      background-image: url(assets/bgk-middle.png);
+      height: 500px;
+ 
+  }
+  .flex { 
+      display: flex; 
+      justify-content: center; 
+      align-items: center;
+  }
+  
+
 .bodytext {
     font-family: Verdana;
     font-size: 11px;
