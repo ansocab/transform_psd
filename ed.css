@@ -1,0 +1,243 @@
+hr {
+	width: 15%;
+	margin-bottom: 40px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	color: rgb(46, 44, 44);
+	font-size: 2rem;
+	
+	
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(70, 68, 68);
+	font-size: 1rem;
+	
+}
+
+h3 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+
+}
+
+h4 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+	color: grey;
+}
+
+.flexbox-container-1 {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+	
+
+	
+
+}
+.box-1 {
+
+	width: 300px;  height: 300px;  background-color: white;  margin: 8px;
+	text-align: center;
+}
+
+.imgscreen {
+	width: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.box-2 {
+
+	width: 300px;  height: 300px;  background-color: white;  margin: 8px;
+	text-align: center;
+}
+
+.imgpen {
+	width: 70px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+.box-3 {
+
+	width: 300px;  height: 300px;  background-color: white;  
+	text-align: center;
+	
+}
+
+.imgmobile {
+	width: 45px;
+	padding-top: 30px;
+	padding-bottom: 35px;
+
+}
+
+.flexbox-container-2{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+
+}
+.box-4 {
+
+	width: 300px;  height: 300px;  background-color: white;  margin: 8px;
+	text-align: center;
+}
+
+.imggraph {
+	width: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+.box-5 {
+
+	width: 300px;  height: 300px;  background-color: white;  margin: 8px;
+	text-align: center;
+}
+
+.imggameboy {
+	width: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+.box-6 {
+
+	width: 300px;  height: 300px;  background-color: white;  margin: 8px;
+	text-align: center;
+}
+.imgheart {
+	width: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
+.flexbox-container-3 {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+
+}
+.box-7 {
+
+	width: 300px;  height: 400px;  background-clip: skyblue;  margin: 8px;
+	text-align: center;
+	overflow: hidden;
+}
+.snoop {
+	width: 85%;
+	
+
+	
+}
+
+.box-8 {
+
+	width: 300px;  height: 400px;  margin: 8px;
+	text-align: center;
+	overflow: hidden;
+
+	
+	
+	
+	
+	
+	background-color: skyblue;
+}
+
+.tim {
+	width: 100%;
+
+}
+.box-9 {
+
+	width: 300px;  height: 400px;  background-color: #8cacea;  margin: 8px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.lemmy {
+	width: 100%;
+	
+}
+
+.box-10 {
+
+	width: 300px;  height: 400px;   margin: 8px;
+	text-align: center;
+	overflow: hidden;
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
+
+
+.flexbox-container-4 {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+
+}
+.box-11 {
+
+	width: 300px;  height: 100px;  background-color: #8cacea;  margin: 8px;
+	text-align: center;
+}
+.box-12 {
+
+	width: 300px;  height: 100px;  background-color: #8cacea;  margin: 8px;
+	text-align: center;
+}
+.box-13 {
+
+	width: 300px;  height: 100px;  background-color: #8cacea;  margin: 8px;
+	text-align: center;
+}
+
+.box-14 {
+
+	width: 300px;  height: 100px;  background-color: #8cacea;  margin: 8px;
+	text-align: center;
+}
+
+.bottom {
+
+    
+	background-image: url ("images/bgk-header.png");
+	
+
+	overflow: hidden;
+
+
+	
+}
+
+body {
+	
+	background-image: url ("images/bgk-header.png");
+	
+}
+
+
+
